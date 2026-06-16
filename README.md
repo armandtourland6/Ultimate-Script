@@ -17,6 +17,8 @@ Copiez le script de lancement fourni ci-dessus et injectez-le.
 
 Profitez de l'interface graphique avancée en jeu !
 
+Testez le en ligne ! armandtourland6.github.io
+
 🔒 Sécurité & Informations
 No Key System : Pas de système de clé fastidieux, le script est accessible immédiatement.
 
